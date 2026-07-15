@@ -21,14 +21,14 @@ Features :-
 
 Controls :-
 
-Key	     Action
-↑	      Move Up
+Key	           Action
+↑	            Move Up
 
-↓	      Move Down
+↓	            Move Down
 
-←	      Move Left
+←	            Move Left
 
-→	      Move Right
+→	            Move Right
 
 Future Improvements :- 
 
